@@ -25,6 +25,6 @@ int main()
     sort(vec.begin(),vec.end());
     vec.erase(unique(vec.begin(),vec.end()),vec.end());
     if (vec.size()== n) cout << "I become the guy.";
-    else cout << "Oh, my keyboard";
+    else cout << "Oh, my keyboard!";
     return 0;
 }
