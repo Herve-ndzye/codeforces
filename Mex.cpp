@@ -1,4 +1,4 @@
-/*Let God know your plans and you will achieve them!*/
+/*Let God know your plans and you will achieve them!!*/
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
